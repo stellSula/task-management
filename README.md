@@ -4,7 +4,7 @@
 <p align="left"> 
     <p>
         Создание задачи
-        <img src="/Users/sultan/IdeaProjects/task-management/src/main/resources/templates/imgs/1.png" alt="java" width="40" height="40"/>
+        <img src="https://github.com/stellSula/task-management/blob/master/src/main/resources/templates/imgs/1.png" alt="java" width="40" height="40"/>
     </p>
 </p>
 
