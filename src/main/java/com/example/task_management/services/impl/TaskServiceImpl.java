@@ -8,6 +8,7 @@ import com.example.task_management.enums.Status;
 import com.example.task_management.exeptions.TaskNotFoundException;
 import com.example.task_management.mappers.TaskMapper;
 import com.example.task_management.repositories.TaskRepository;
+import com.example.task_management.services.EmailService;
 import com.example.task_management.services.TaskService;
 import com.example.task_management.services.UserService;
 import org.springframework.stereotype.Service;
@@ -22,11 +23,13 @@ public class TaskServiceImpl implements TaskService {
     private final TaskRepository taskRepository;
     private final TaskMapper taskMapper;
     private final UserService userService;
+    private final EmailService emailService;
 
-    public TaskServiceImpl(TaskRepository taskRepository, TaskMapper taskMapper, UserService userService) {
+    public TaskServiceImpl(TaskRepository taskRepository, TaskMapper taskMapper, UserService userService, EmailService emailService) {
         this.taskRepository = taskRepository;
         this.taskMapper = taskMapper;
         this.userService = userService;
+        this.emailService = emailService;
     }
 
     @Override
@@ -38,6 +41,8 @@ public class TaskServiceImpl implements TaskService {
         task.setUpdatedDate();
         task.setExecutor(executor);
         taskRepository.save(task);
+
+        //emailService.sendTaskCreatedEmail(executor.getEmail(), task.getTitle());
         return task.getId();
     }
 
