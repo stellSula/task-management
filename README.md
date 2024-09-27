@@ -10,7 +10,7 @@
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
   </a> 
   <a href="https://www.h2database.com/html/main.html" target="_blank" rel="noreferrer"> 
-    <img src="https://dbdb.io/db/h2" alt="h2" width="40" height="40"/> 
+    <img src="https://dbdb.io/media/logos/h2-logo.svg" alt="h2" width="40" height="40"/> 
   </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a> 
