@@ -3,8 +3,13 @@
 
 <p align="left">
     <div>
-        <h4>Создание задачи</h4>
-        <img src="https://github.com/stellSula/task-management/blob/master/src/main/resources/templates/imgs/1.png" alt="java" width="800" height="550"/>
+        <h4>Создание задачи:</h4>
+        <img src="https://github.com/stellSula/task-management/blob/master/src/main/resources/templates/imgs/1.png" alt="postman" width="800" height="550"/>
+    </div>
+
+    <div>
+        <h4>Получение списка всех задач:</h4>
+        <img src="https://github.com/stellSula/task-management/blob/master/src/main/resources/templates/imgs/2.png" alt="postman" width="800" height="550"/>
     </div>
 </p>
 
