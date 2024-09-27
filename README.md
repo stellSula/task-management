@@ -1,11 +1,13 @@
 <h1 align="center">Привет 👋, я Султан</h1>
 <h3 align="left">В данном проекте разработаны REST API для простого сервиса управления задачами. Реализованы следующие эндпоинты: cоздание задачи, получение списка всех задач, обновление задачи, удаление задачи, получение задачи по ID</h3>
 
-<p align="left"> 
-    <p>
+<p align="left">
+    <div>
         Создание задачи
-        <img src="https://github.com/stellSula/task-management/blob/master/src/main/resources/templates/imgs/1.png" alt="java" width="40" height="40"/>
-    </p>
+        <p>
+            <img src="https://github.com/stellSula/task-management/blob/master/src/main/resources/templates/imgs/1.png" alt="java" width="800" height="800"/>
+        </p>
+    </div>
 </p>
 
 <h3 align="left">Используемые технологии:</h3>
