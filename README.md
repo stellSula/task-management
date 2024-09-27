@@ -3,10 +3,8 @@
 
 <p align="left">
     <div>
-        Создание задачи
-        <p>
-            <img src="https://github.com/stellSula/task-management/blob/master/src/main/resources/templates/imgs/1.png" alt="java" width="800" height="550"/>
-        </p>
+        <h4>Создание задачи</h4>
+        <img src="https://github.com/stellSula/task-management/blob/master/src/main/resources/templates/imgs/1.png" alt="java" width="800" height="550"/>
     </div>
 </p>
 
