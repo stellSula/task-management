@@ -1,22 +1,51 @@
 <h1 align="center">Привет 👋, я Султан</h1>
 <h3 align="left">В данном проекте разработаны REST API для простого сервиса управления задачами. Реализованы следующие эндпоинты: cоздание задачи, получение списка всех задач, обновление задачи, удаление задачи, получение задачи по ID</h3>
 
-
+<h3>Основное задание</h3>
 <div>
     <h4>Создание пользователей:</h4>
-    <img src="https://github.com/stellSula/task-management/blob/master/src/main/resources/templates/imgs/1.png" alt="postman" width="800" height="550"/>
-    <img src="https://github.com/stellSula/task-management/blob/master/src/main/resources/templates/imgs/2.png" alt="postman" width="800" height="550"/>
+    <img src="https://github.com/stellSula/task-management/blob/master/src/main/resources/templates/imgs/1.png" alt="postman" width="800" height="500"/>
+    <img src="https://github.com/stellSula/task-management/blob/master/src/main/resources/templates/imgs/2.png" alt="postman" width="800" height="500"/>
 </div>
 
 <div>
     <h4>Создание задач:</h4>
-    <img src="https://github.com/stellSula/task-management/blob/master/src/main/resources/templates/imgs/3.png" alt="postman" width="800" height="550"/>
-    <img src="https://github.com/stellSula/task-management/blob/master/src/main/resources/templates/imgs/4.png" alt="postman" width="800" height="550"/>
+    <img src="https://github.com/stellSula/task-management/blob/master/src/main/resources/templates/imgs/3.png" alt="postman" width="800" height="500"/>
+    <img src="https://github.com/stellSula/task-management/blob/master/src/main/resources/templates/imgs/4.png" alt="postman" width="800" height="500"/>
 </div>
 
 <div>
     <h4>Получение списка всех задач:</h4>
-    <img src="https://github.com/stellSula/task-management/blob/master/src/main/resources/templates/imgs/2.png" alt="postman" width="800" height="550"/>
+    <img src="https://github.com/stellSula/task-management/blob/master/src/main/resources/templates/imgs/5.png" alt="postman" width="800" height="500"/>
+</div>
+
+<div>
+    <h4>Получение задачи по id:</h4>
+    <img src="https://github.com/stellSula/task-management/blob/master/src/main/resources/templates/imgs/6.png" alt="postman" width="800" height="500"/>
+</div>
+
+<div>
+    <h4>Обноление задачи:</h4>
+    <img src="https://github.com/stellSula/task-management/blob/master/src/main/resources/templates/imgs/7.png" alt="postman" width="800" height="500"/>
+    <img src="https://github.com/stellSula/task-management/blob/master/src/main/resources/templates/imgs/8.png" alt="postman" width="800" height="500"/>
+</div>
+
+<div>
+    <h4>Удаление задачи:</h4>
+    <img src="https://github.com/stellSula/task-management/blob/master/src/main/resources/templates/imgs/9.png" alt="postman" width="800" height="500"/>
+    <img src="https://github.com/stellSula/task-management/blob/master/src/main/resources/templates/imgs/10.png" alt="postman" width="800" height="500"/>
+</div>
+
+<h3>Дополнительные задания</h3>
+<div> 
+    <h4>HTTP запрос (GET) на адрес: https://api.restful-api.dev/objects</h4>
+    <p>
+        Для реализации данного функционала были использованы билиотеки okhttpclient и jackson  
+    </p>
+    <img src="https://github.com/stellSula/task-management/blob/master/src/main/resources/templates/imgs/11.png" alt="postman" width="800" height="500"/>
+    <img src="https://github.com/stellSula/task-management/blob/master/src/main/resources/templates/imgs/12.png" alt="postman" width="800" height="500"/>
+    <img src="https://github.com/stellSula/task-management/blob/master/src/main/resources/templates/imgs/13.png" alt="postman" width="800" height="500"/>
+    <img src="https://github.com/stellSula/task-management/blob/master/src/main/resources/templates/imgs/14.png" alt="postman" width="800" height="500"/>
 </div>
 
 <h3 align="left">Используемые технологии:</h3>
