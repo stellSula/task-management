@@ -2,7 +2,10 @@
 <h3 align="left">В данном проекте разработаны REST API для простого сервиса управления задачами. Реализованы следующие эндпоинты: cоздание задачи, получение списка всех задач, обновление задачи, удаление задачи, получение задачи по ID</h3>
 
 <p align="left"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+    <p>
+        Создание задачи
+        <img src="/Users/sultan/IdeaProjects/task-management/src/main/resources/templates/imgs/1.png" alt="java" width="40" height="40"/>
+    </p>
 </p>
 
 <h3 align="left">Используемые технологии:</h3>
