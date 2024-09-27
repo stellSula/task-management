@@ -5,7 +5,7 @@
     <div>
         Создание задачи
         <p>
-            <img src="https://github.com/stellSula/task-management/blob/master/src/main/resources/templates/imgs/1.png" alt="java" width="800" height="800"/>
+            <img src="https://github.com/stellSula/task-management/blob/master/src/main/resources/templates/imgs/1.png" alt="java" width="800" height="400"/>
         </p>
     </div>
 </p>
