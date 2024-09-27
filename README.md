@@ -3,8 +3,15 @@
 
 
 <div>
-    <h4>Создание задачи:</h4>
+    <h4>Создание пользователей:</h4>
     <img src="https://github.com/stellSula/task-management/blob/master/src/main/resources/templates/imgs/1.png" alt="postman" width="800" height="550"/>
+    <img src="https://github.com/stellSula/task-management/blob/master/src/main/resources/templates/imgs/2.png" alt="postman" width="800" height="550"/>
+</div>
+
+<div>
+    <h4>Создание задач:</h4>
+    <img src="https://github.com/stellSula/task-management/blob/master/src/main/resources/templates/imgs/3.png" alt="postman" width="800" height="550"/>
+    <img src="https://github.com/stellSula/task-management/blob/master/src/main/resources/templates/imgs/4.png" alt="postman" width="800" height="550"/>
 </div>
 
 <div>
