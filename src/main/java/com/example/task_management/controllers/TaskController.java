@@ -46,7 +46,7 @@ public class TaskController {
         return ResponseEntity.ok(tasks);
     }
 
-    @PutMapping
+    @PutMapping("/update")
     public ResponseEntity<Long> updateTask(
             @RequestParam Long id,
             @RequestParam(required = false) String title,
@@ -60,7 +60,7 @@ public class TaskController {
         return ResponseEntity.ok(updatedTaskId);
     }
 
-    @DeleteMapping
+    @DeleteMapping("/delete")
     public void deleteTask(@RequestParam Long id) {
         logger.info("Deleting task with id: {}", id);
         taskService.deleteTask(id);
