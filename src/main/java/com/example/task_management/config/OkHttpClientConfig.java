@@ -1,4 +1,4 @@
-package com.example.task_management;
+package com.example.task_management.config;
 
 import okhttp3.OkHttpClient;
 import org.springframework.context.annotation.Bean;
