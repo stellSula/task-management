@@ -4,7 +4,6 @@ import com.example.task_management.enums.Status;
 import jakarta.persistence.*;
 import lombok.*;
 import lombok.experimental.FieldDefaults;
-import org.apache.catalina.User;
 
 import java.time.Instant;
 
@@ -20,7 +19,6 @@ public class Task {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     Long id;
-
 
     @Column(nullable = false)
     String title;
@@ -43,5 +41,14 @@ public class Task {
     @ManyToOne
     @JoinColumn(name = "executor_id", nullable = false)
     User executor;
+
+
+    public void setCreatedDate() {
+        this.createdDate = Instant.now();
+    }
+
+    public void setUpdatedDate() {
+        this.updatedDate = Instant.now();
+    }
 
 }
