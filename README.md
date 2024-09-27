@@ -1,4 +1,4 @@
-<h1 align="center">Привет 👋, я Султан</h1>
+<h1 align="left">Сервис управления задачами</h1>
 <h3 align="left">В данном проекте разработаны REST API для простого сервиса управления задачами. Реализованы следующие эндпоинты: cоздание задачи, получение списка всех задач, обновление задачи, удаление задачи, получение задачи по ID</h3>
 
 <h3>Основное задание</h3>
@@ -46,6 +46,11 @@
     <img src="https://github.com/stellSula/task-management/blob/master/src/main/resources/templates/imgs/12.png" alt="postman" width="800" height="500"/>
     <img src="https://github.com/stellSula/task-management/blob/master/src/main/resources/templates/imgs/13.png" alt="postman" width="800" height="500"/>
     <img src="https://github.com/stellSula/task-management/blob/master/src/main/resources/templates/imgs/14.png" alt="postman" width="800" height="500"/>
+</div>
+<div> 
+    <p>
+        Я пытался реализовать отправку сообщеший на email при помощи JavaMailSender(spring-boot-starter-mail). Выдает ошибку: jakarta.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. For more information, go to 535 5.7.8  https://support.google.com/mail/?p=BadCredentials 2adb3069b0e04-5389fd54718sm182878e87.35 - gsmtp. Не успел разобраться и доделать.
+    </p>
 </div>
 
 <h3 align="left">Используемые технологии:</h3>
